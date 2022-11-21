@@ -1,0 +1,16 @@
+{
+    "conversas": [
+        {
+            "mensagens": [ "O que faz um contador? " ],
+            "resposta": "A função do contador é executar tarefas das áreas econômicas, tributárias e patrimoniais de pessoa física ou jurídica. Resumidamente, o contador é responsável pela saúde financeira de uma organização, seja ela pública, privada ou sem fins lucrativos."
+        },
+        {
+            "mensagens": [ "Porque preciso de um contador?" ],
+            "resposta": "Todo o negócio precisa ter a consultoria contábil para que ele se mantenha legalizado, afinal, é necessário pagar impostos para manter a sua empresa saudável e na ativa."
+        },
+        {
+            "mensagens": [ "oque e um mei?" ],
+            "resposta": "  O Microempreendedor Individual (MEI) é uma figura jurídica do Brasil,\n é a pessoa que trabalha por conta própria e que se legaliza como pequeno empresário, para ser um microempreendedor individual,\n é necessário faturar até oitenta e um mil reais por ano e não ter participação em outra empresa como sócio ou titular,\n o MEI também pode ter um empregado contratado que receba um salário mínimo ou o piso da categoria."
+        }
+    ]
+}

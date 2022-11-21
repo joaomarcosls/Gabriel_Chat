@@ -11,6 +11,22 @@
         {
             "mensagens": [ "oque e um mei?" ],
             "resposta": "  O Microempreendedor Individual (MEI) é uma figura jurídica do Brasil,\n é a pessoa que trabalha por conta própria e que se legaliza como pequeno empresário, para ser um microempreendedor individual,\n é necessário faturar até oitenta e um mil reais por ano e não ter participação em outra empresa como sócio ou titular,\n o MEI também pode ter um empregado contratado que receba um salário mínimo ou o piso da categoria."
+        },
+        {
+            "mensagens": [ "oque e uma DMA?" ],
+            "resposta": "  A Declaração e Apuração Mensal do imposto \ncobrado sobre o Imposto de Circulação de Mercadorias e Serviços,\n o ICMS, também conhecido como DMA, trata-se de um documento pertinente à declaração acessória do estado da Bahia."
+        },
+        {
+            "mensagens": [ "como é cobrado o irrf?" ],
+            "resposta": "  Para calcular o IRRF em 2022, \né necessário usar a base do salário bruto do funcionário e descontar\n o valor do INSS com base na tabela do IRRF 2022.\n Além disso, itens como a quantidade de dependentes\n e de pensões alimentícias também incidem no valor irrf."
+        },
+        {
+            "mensagens": [ "como é tributado o fgts??" ],
+            "resposta": "   Os saques do FGTS são rendimentos isentos da cobrança de imposto de renda,\n mas precisam ser declarados para justificar a variação patrimonial na declaração."
+        },
+        {
+            "mensagens": [ "qual salario minimo 2023?" ],
+            "resposta": " Em 2022, o valor do salário mínimo está em R$ 1.212.\nO projeto de Orçamento de 2023 prevê que o valor suba para R$ 1.302 a partir de janeiro,\n com base na correção apenas da inflação."
         }
     ]
 }

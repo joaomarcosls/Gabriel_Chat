@@ -5,3 +5,9 @@ Além das saudações ( olá, bom dia, boa tarde, boa noite ),
 O que faz um contador?; 
 Porque preciso de um contador?; 
 Oque e um mei?;
+Oque e uma DMA?;
+como é cobrado o irrf?;
+como é tributado o fgts?
+qual salario minimo 2023?
+
+

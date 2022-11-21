@@ -18,7 +18,7 @@ def comparar_mensagens(mensagem_digitada, mensagem_candidata):
     return confianca
 
 def iniciar():
-    robo = ChatBot("Robô de Atendimento do IFBA",
+    robo = ChatBot("Robô de Atendimento do Gabriel",
                    read_only=True,
                    statement_comparison_function=comparar_mensagens,     
                    logic_adapters=[
@@ -32,13 +32,13 @@ def iniciar():
 
 def executar_robo(robo):
     while True:
-        mensagem = input("Digite alguma coisa... \n")
+        mensagem = input("Qual sua Duvida ? ... \n")
         resposta = robo.get_response(mensagem.lower())
         
         if resposta.confidence >= CONFIANCA_MINIMA:
             print(">>", resposta.text)
         else:
-            print("Infelizmente, ainda não sei responder isso")
+            print("Infelizmente, ainda não sei responder isso,\n Pode me perguntar assuntos da area contabil!")
             print("Pergunte outra coisa")
 
 

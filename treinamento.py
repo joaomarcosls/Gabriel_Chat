@@ -4,7 +4,7 @@ import json
 
 CONVERSAS = [
     ".\conversas\saudacoes.json",
-    ".\conversas\informacoes_basicas.json"
+    ".\conversas\informacoes.json"
   
 ]
 
@@ -18,7 +18,7 @@ def carregar_conversas():
     conversas = []
 
     for arquivo_conversas in CONVERSAS:
-        with open(arquivo_conversas, "r") as arquivo:
+        with open(arquivo_conversas, "r", encoding='utf-8') as arquivo:
             conversas_para_treinamento = json.load(arquivo)
             conversas.append(conversas_para_treinamento["conversas"])
 

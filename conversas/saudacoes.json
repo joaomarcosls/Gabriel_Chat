@@ -2,15 +2,15 @@
     "conversas": [
         {
             "mensagens": [ "oi", "olá", "tudo bem?" ],
-            "resposta": "Olá,  sou o robô de atendimento Gabriel. Como posso te ajudar?"    
+            "resposta": "Olá, sou o robô de atendimento Gabriel. Como posso te ajudar?"    
         },
         {
             "mensagens": ["bom dia"],
-            "resposta": "Bom dia,  sou o robô de atendimento Gabriel. Como posso te ajudar?"
+            "resposta": "Bom dia, sou o robô de atendimento Gabriel. Como posso te ajudar?"
         },
         {
             "mensagens": ["boa tarde"],
-            "resposta": "Bom tarde,  sou o robô de atendimento Gabriel. Como posso te ajudar?"
+            "resposta": "Boa tarde, sou o robô de atendimento Gabriel. Como posso te ajudar?"
         },
         {
             "mensagens": ["boa noite" ],
